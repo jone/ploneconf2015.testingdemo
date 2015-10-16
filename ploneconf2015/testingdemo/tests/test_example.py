@@ -5,6 +5,10 @@ from unittest2 import TestCase
 import transaction
 
 
+# It will be here:
+# https://github.com/jone/ploneconf2015.testingdemo
+
+
 class TestDemo(TestCase):
     layer = DEMO_FUNCTIONAL
 
