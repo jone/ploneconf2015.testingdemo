@@ -23,3 +23,4 @@ References
 - https://github.com/4teamwork/ftw.testbrowser
 - http://pythonhosted.org/ftw.testbrowser/index.html
 - https://github.com/4teamwork/ftw.builder
+- http://devblog.4teamwork.ch/blog/2013/05/24/construct-your-testing-data-using-the-builder-pattern/
